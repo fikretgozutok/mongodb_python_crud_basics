@@ -1,0 +1,1 @@
+### Bu proje, Python'da `pymongo` kütüphanesi ile MongoDB'nin temel CRUD (Oluşturma, Okuma, Güncelleme, Silme) operasyonlarının nasıl gerçekleştirildiğini gösteren basit bir uygulamadır.
